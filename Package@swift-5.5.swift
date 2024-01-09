@@ -7,8 +7,8 @@ let package = Package(
     name: "CocoaLumberjack",
     platforms: [
         .macOS(.v10_13),
-        .iOS(.v11),
-        .tvOS(.v11),
+        .iOS(.v9),
+        .tvOS(.v9),
         .watchOS(.v4),
     ],
     products: [
